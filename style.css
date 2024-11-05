@@ -1,0 +1,47 @@
+.Animal{
+    font-style: italic;
+    text-decoration-line:underline;
+    font-size: larger;
+       }
+
+h1 {
+    color:blueviolet;
+    text-decoration-line: underline; 
+    text-decoration-color: silver;
+}
+
+
+h2{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: pink;
+    color:blue;
+}
+
+img{
+    height: 200px;
+    width:300px;
+}
+
+#cat {
+    color: red;
+}
+
+#dog {
+    color: burlywood;
+}
+
+#cow {
+    color: orange;
+}
+
+#goat {
+    color:cornflowerblue
+}
+
+#camel {
+    color: crimson;
+}
+
